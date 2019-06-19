@@ -1,0 +1,1 @@
+C:\Users\irene\AppData\Local\Programs\Python\Python37-32\Scripts\django-admin startproject %1
